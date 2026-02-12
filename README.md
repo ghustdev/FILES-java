@@ -19,7 +19,7 @@ de arquivos e diretorios usando a API de I/O do Java.
 
 ## Como executar
 1) Abra o projeto na sua IDE
-2) Encontre a classe com o `main`
+2) Encontre a classe com o `application.Program`
 3) Execute o arquivo desejado
 
 Se preferir via terminal (ajuste o caminho da classe):
@@ -30,12 +30,11 @@ java -cp src SeuExercicio
 
 ## Exercicios (exemplos)
 - Criar e ler arquivos de texto
-- Listar arquivos de um diretorio
-- Copiar e mover arquivos
-- Gerar relatorios simples a partir de pastas
+- Listar e tratar dados de um arquivo
+- Gerar relatorios simples a partir de arquivos .csv
 
 ## Status
-Em desenvolvimento e evoluindo conforme novos exercicios sao adicionados.
+Finalizado.
 
 ## Autor
 Gustavo
